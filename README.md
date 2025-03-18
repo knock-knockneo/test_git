@@ -1,1 +1,1 @@
-'hello, world' 
+Hello, friend! How are you?
